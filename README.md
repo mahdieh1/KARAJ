@@ -1,7 +1,9 @@
 
 
-![karaj](https://user-images.githubusercontent.com/12238056/183278652-c7d95dee-12fa-47e6-8c94-8fd4c651a343.jpg)
 
+<p align="center">
+  <img src="https://github.com/mahdieh1/KARAJ/blob/main/docs/karaj.jpg" />
+</p>
 
 ========================================================================================================================================================================================
 
