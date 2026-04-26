@@ -119,9 +119,6 @@ In case of queries, please email: m.labani@unsw.edu.au or a.afrasiabi@unsw.edu.a
 ### People who contributed to the KARAJ idea and code:
 * Mahdieh Labani 
 * Ali Afrasiabi
-* Amin Beheshti
-* Hamid Alinejad-Rokny
-* Nigel Lovell
 
 ------------------------------------------------------------------------------------------------------------------------
 
